@@ -1,9 +1,9 @@
 {
-    "name": "pemroweb",
+    "name": "PEMROWEB",
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "start": "node index.js"
+        "start": "node tugas2.js"
     },
     "repository": {
         "type": "git",
